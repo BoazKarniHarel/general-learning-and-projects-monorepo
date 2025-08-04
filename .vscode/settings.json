@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cwd": "${cwd}",
+    "python.terminal.activateEnvironment": false,
+}
