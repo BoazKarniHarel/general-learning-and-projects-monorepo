@@ -1,0 +1,1 @@
+Practice setniemnt analysis project from IBM generative AI engineer specialization course

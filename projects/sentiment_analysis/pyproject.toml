@@ -1,0 +1,35 @@
+[project]
+name = "sentiment-analysis"
+version = "0.1.0"
+description = "Practice setniemnt analysis project from IBM generative AI engineer specialization course"
+readme = "README.md"
+requires-python = ">=3.12.10"
+dependencies = [
+    "flask>=3.1.1",
+    "requests>=2.32.4",
+]
+
+[tool.black]
+# Project-specific overrides (if any)
+
+[tool.isort]
+# Project-specific overrides (if any)
+
+[tool.ruff]
+
+[dependency-groups]
+code-quality = [
+    "black>=25.1.0",
+    "isort>=6.0.1",
+    "mypy>=1.15.0",
+    "pylint>=3.3.7",
+    "ruff>=0.11.9",
+]
+dev = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+]
+# Project-specific overrides (if any)
+
+[project.optional-dependencies]
+# Add project-specific dependencies here
