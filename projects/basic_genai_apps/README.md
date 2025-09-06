@@ -1,0 +1,1 @@
+Some basic genai apps based on ibm genai engineer certificate course
